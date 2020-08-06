@@ -158,7 +158,7 @@
     "Birthdate": "1943-10-31",
     "PhotoUrl": "/services/images/photo/0032w00000FYqobAAD",
     "data_source__c": "Tock",
-    "brand__c": "Chandon"
+    "brand__c": "Hennessy"
   },
   {
     "LastName": "Boyle",
@@ -190,7 +190,7 @@
     "Birthdate": "1960-12-13",
     "PhotoUrl": "/services/images/photo/0032w00000FYqocAAD",
     "data_source__c": "Tock",
-    "brand__c": "Moet Chandon"
+    "brand__c": "Hennessy"
   }
 ]
 
